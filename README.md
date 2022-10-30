@@ -1,6 +1,6 @@
 # Twitter Clone 🔷
 
-This is a twitter clone app from the module 5 of Scrimba FrontEnd Career Path. I've learned so much throughout this module 5, my JavaScript kwowledge have reached another level. 
+This is a twitter clone app from the module 5 of Scrimba FrontEnd Career Path. I've learned so much throughout this module 5, my JavaScript kwowledge have reached another level.
 
 
 [<img src="images\twitter-clone.gif">](https://alansouza7.github.io/twitter-clone/)
